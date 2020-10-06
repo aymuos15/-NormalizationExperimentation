@@ -1,2 +1,4 @@
-# Initial page
+# Introduction
+
+SRM Institute of Science and Technology
 
