@@ -1,6 +1,25 @@
+---
+description: >-
+  This is a detailed explanation of my internships with various Institutes and
+  companies.
+---
+
 # Welcome
 
-This is a detailed explanation of my internships with various Institutes and companies. 
+The details will be structured in the following format  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+- Tenure of Internship   
+- Advisor  
+- Domain of Focus   
+- Technology Stack utilized
 
-The details will be structured in the following format
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+- Summary of work  
+- Major work/findings  
+- Proof \(Acceptance Letters, Mails etc.\)
+
+  
+
+
+
 
